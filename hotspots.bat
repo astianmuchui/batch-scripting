@@ -1,1 +1,1 @@
-netsh & wlan show hostednetwork
+netsh  wlan show hostednetwork
